@@ -20,3 +20,7 @@ Ran with [hyperfine](https://github.com/sharkdp/hyperfine) on an AMD Ryzen 5 260
 - Day 4:
     - Part one: **~1.3ms**
     - Part two: **~1.1ms**
+
+- Day 5:
+    - Part one: **~13.4ms**(!)
+    - Part two: **~340.5ms** *(don't want to talk about it)*
